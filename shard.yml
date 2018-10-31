@@ -1,0 +1,13 @@
+name: fp
+version: 0.1.0
+
+authors:
+  - Jose Galisteo <ceritium@gmail.com>
+
+targets:
+  fp:
+    main: src/fp.cr
+
+crystal: 0.26.1
+
+license: MIT
